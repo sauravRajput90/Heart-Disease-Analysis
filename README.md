@@ -1,13 +1,8 @@
-# Mainflow-Task-5
-NAME- SAURAV KASHYAP  
-COMPANY- Main Flow Services and Technologies  
-Intern ID - 13838  
-DOMAIN-Data Analysis  
-DURATION-25 July 2024 to 25 September 2024.
-
-# project -Understanding the Heart Disease Analysis Project
+# Heart Disease Analysis
 
 ## OVERVIEW OF THE TASK
+Cardiovascular Health Prediction is a data-driven project aimed at developing a predictive model to assess an individual's risk of developing heart disease based on various health indicators. By leveraging machine learning techniques and analyzing relevant medical data, this project seeks to provide valuable insights into cardiovascular health and enable early intervention and prevention strategies.
+
 
 ### Project Goal:  
 * To identify key factors contributing to heart disease occurrence.  
